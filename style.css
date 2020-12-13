@@ -433,9 +433,6 @@ html {
       margin: 3rem 2rem;
     }
   
-    .section-4 {
-      height: 80vh;
-    }
   }
   
   @media (max-width: 800px) {
@@ -462,7 +459,7 @@ html {
       padding: 10rem;
     }
   
-    .section-2-heading {
+    .section-2-heading, .section-4-heading {
       margin-bottom: 10rem;
     }
   
