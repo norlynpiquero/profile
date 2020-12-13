@@ -74,3 +74,12 @@
       font-size: 20px;
       margin-top: 3rem;
 }
+
+
+
+/* Responsive */
+@media (max-width: 600px) {
+  .mySlides {
+    padding: 25px 45px 0 45px;
+  }
+}
